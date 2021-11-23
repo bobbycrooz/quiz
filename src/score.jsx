@@ -28,11 +28,14 @@ export default ({ click, data }) => {
           return await response.json();
      }
 
-     React.useEffect(async () => {
+     React.useEffect( () => {
+         async function jjj(){
           const result = await getResult();
           // console.log(result);
           setResult({ ...result });
-          setLoading(false)
+          setLoading(false);
+         }
+         jjj()
      }, []);
 
      return (
