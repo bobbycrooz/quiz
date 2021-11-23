@@ -5,13 +5,13 @@ this app fetches question fron a Node backend endpoint and also the result are c
 this app has a leaderboard feature
 
 > Responsive insterface
-<br/>
+
 > React app 
-<br/>
+
 > nodejs
-<br/>
+
 > tailwindcss
-<br/>
+
 > express
 
 [live link here :](https://fancbt.netlify.app/)
