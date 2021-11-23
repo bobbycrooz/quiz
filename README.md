@@ -8,10 +8,8 @@ this app has a leaderboard feature
 <br/>
 > React app 
 <br/>
-
 > nodejs
 <br/>
-
 > tailwindcss
 <br/>
 > express
