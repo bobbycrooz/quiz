@@ -10,7 +10,7 @@ this app has a leaderboard feature
 > tailwindcss
 > express
 
-[live link here :](fancbt.netlify.app)
+[live link here :](https://fancbt.netlify.app/)
 
 screenshoot
 ![home](https://github.com/bobbycrooz/quiz/blob/main/src/asset/ss1.png)
